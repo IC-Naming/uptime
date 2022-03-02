@@ -35,8 +35,6 @@ sites:
     url: https://cxnwn-diaaa-aaaag-aabaq-cai.raw.ic0.app/metrics
   - name: TICP ICNaming Ledger
     url: https://ra2t7-3aaaa-aaaaj-aahzq-cai.raw.ic0.app/metrics
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
