@@ -25,7 +25,6 @@ sites:
     url: http://whitelist.icnaming.com/
   - name: ICNaming ENS
     url: http://ens.icnaming.com/
-
   - name: TICP Favorites
     url: https://oyjuw-oqaaa-aaaal-qac5q-cai.raw.ic0.app/metrics
   - name: TICP Registrar
@@ -36,7 +35,8 @@ sites:
     url: https://cxnwn-diaaa-aaaag-aabaq-cai.raw.ic0.app/metrics
   - name: TICP ICNaming Ledger
     url: https://ra2t7-3aaaa-aaaaj-aahzq-cai.raw.ic0.app/metrics
-
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -58,6 +58,3 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-assignees:
-  - royandroll
