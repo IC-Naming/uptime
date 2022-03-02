@@ -113,18 +113,18 @@
     "icon": "https://favicons.githubusercontent.com/status.icnaming.com",
     "slug": "ic-naming-status",
     "status": "down",
-    "uptime": "5.21%",
-    "uptimeDay": "5.21%",
-    "uptimeWeek": "5.21%",
-    "uptimeMonth": "5.21%",
-    "uptimeYear": "5.21%",
+    "uptime": "1.70%",
+    "uptimeDay": "1.70%",
+    "uptimeWeek": "1.70%",
+    "uptimeMonth": "1.70%",
+    "uptimeYear": "1.70%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 1
     }
   },
   {
