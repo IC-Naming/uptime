@@ -77,17 +77,19 @@
     "icon": "https://favicons.githubusercontent.com/ceilt-sqaaa-aaaam-aacca-cai.raw.ic0.app",
     "slug": "icp-ic-naming-ledger",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.60%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 868,
     "timeDay": 868,
     "timeWeek": 868,
     "timeMonth": 868,
     "timeYear": 868,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 4
+    }
   },
   {
     "name": "ICNaming WWW",
@@ -124,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-03": 470,
+      "2022-03-03": 500,
       "2022-03-02": 617
     }
   },
@@ -242,11 +244,11 @@
     "icon": "https://favicons.githubusercontent.com/okpdp-caaaa-aaaal-qac6q-cai.raw.ic0.app",
     "slug": "ticp-resolver",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
+    "uptime": "99.54%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 1193,
     "timeDay": 1193,
     "timeWeek": 1193,
@@ -262,17 +264,19 @@
     "icon": "https://favicons.githubusercontent.com/cxnwn-diaaa-aaaag-aabaq-cai.raw.ic0.app",
     "slug": "ticp-registry",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.55%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 1066,
     "timeDay": 1066,
     "timeWeek": 1066,
     "timeMonth": 1066,
     "timeYear": 1066,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 5
+    }
   },
   {
     "name": "TICP ICNaming Ledger",
@@ -280,16 +284,18 @@
     "icon": "https://favicons.githubusercontent.com/ra2t7-3aaaa-aaaaj-aahzq-cai.raw.ic0.app",
     "slug": "ticp-ic-naming-ledger",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.60%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 841,
     "timeDay": 841,
     "timeWeek": 841,
     "timeMonth": 841,
     "timeYear": 841,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 5
+    }
   }
 ]
