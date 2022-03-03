@@ -124,7 +124,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-03": 460,
+      "2022-03-03": 470,
       "2022-03-02": 617
     }
   },
@@ -241,19 +241,19 @@
     "url": "https://okpdp-caaaa-aaaal-qac6q-cai.raw.ic0.app/metrics",
     "icon": "https://favicons.githubusercontent.com/okpdp-caaaa-aaaal-qac6q-cai.raw.ic0.app",
     "slug": "ticp-resolver",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 1231,
-    "timeDay": 1231,
-    "timeWeek": 1231,
-    "timeMonth": 1231,
-    "timeYear": 1231,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 1193,
+    "timeDay": 1193,
+    "timeWeek": 1193,
+    "timeMonth": 1193,
+    "timeYear": 1193,
     "dailyMinutesDown": {
-      "2022-03-03": 3
+      "2022-03-03": 5
     }
   },
   {
