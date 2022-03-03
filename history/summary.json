@@ -77,18 +77,18 @@
     "icon": "https://favicons.githubusercontent.com/ceilt-sqaaa-aaaam-aacca-cai.raw.ic0.app",
     "slug": "icp-ic-naming-ledger",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
-    "time": 868,
-    "timeDay": 868,
-    "timeWeek": 868,
-    "timeMonth": 868,
-    "timeYear": 868,
+    "uptime": "98.46%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.46%",
+    "time": 874,
+    "timeDay": 874,
+    "timeWeek": 874,
+    "timeMonth": 874,
+    "timeYear": 874,
     "dailyMinutesDown": {
-      "2022-03-03": 4
+      "2022-03-03": 18
     }
   },
   {
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-03": 500,
+      "2022-03-03": 513,
       "2022-03-02": 617
     }
   },
@@ -264,18 +264,18 @@
     "icon": "https://favicons.githubusercontent.com/cxnwn-diaaa-aaaag-aabaq-cai.raw.ic0.app",
     "slug": "ticp-registry",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
-    "time": 1066,
-    "timeDay": 1066,
-    "timeWeek": 1066,
-    "timeMonth": 1066,
-    "timeYear": 1066,
+    "uptime": "98.52%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
+    "time": 1060,
+    "timeDay": 1060,
+    "timeWeek": 1060,
+    "timeMonth": 1060,
+    "timeYear": 1060,
     "dailyMinutesDown": {
-      "2022-03-03": 5
+      "2022-03-03": 17
     }
   },
   {
@@ -284,18 +284,18 @@
     "icon": "https://favicons.githubusercontent.com/ra2t7-3aaaa-aaaaj-aahzq-cai.raw.ic0.app",
     "slug": "ticp-ic-naming-ledger",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
-    "time": 841,
-    "timeDay": 841,
-    "timeWeek": 841,
-    "timeMonth": 841,
-    "timeYear": 841,
+    "uptime": "98.58%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.58%",
+    "time": 824,
+    "timeDay": 824,
+    "timeWeek": 824,
+    "timeMonth": 824,
+    "timeYear": 824,
     "dailyMinutesDown": {
-      "2022-03-03": 5
+      "2022-03-03": 16
     }
   }
 ]
