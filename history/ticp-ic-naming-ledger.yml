@@ -1,7 +1,7 @@
 url: https://ra2t7-3aaaa-aaaaj-aahzq-cai.raw.ic0.app/metrics
-status: up
-code: 200
-responseTime: 769
-lastUpdated: 2022-03-03T23:20:23.799Z
+status: down
+code: 500
+responseTime: 1045
+lastUpdated: 2022-03-04T10:28:27.831Z
 startTime: Wed Mar 02 2022 13:37:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
