@@ -3,37 +3,37 @@ owner: icnaming # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: ICP Favorites
+  - name: ICP-Favorites
     url: https://crp26-tyaaa-aaaam-aacbq-cai.raw.ic0.app/metrics
-  - name: ICP Registrar
+  - name: ICP-Registrar
     url: https://cymrc-fqaaa-aaaam-aacaa-cai.raw.ic0.app/metrics
-  - name: ICP Resolver
+  - name: ICP-Resolver
     url: https://cwo4k-6aaaa-aaaam-aacba-cai.raw.ic0.app/metrics
-  - name: ICP Registry
+  - name: ICP-Registry
     url: https://c7nxw-iiaaa-aaaam-aacaq-cai.raw.ic0.app/metrics
-  - name: ICP ICNaming Ledger
+  - name: ICP-ICNaming-Ledger
     url: https://ceilt-sqaaa-aaaam-aacca-cai.raw.ic0.app/metrics
-  - name: ICNaming WWW
+  - name: ICNaming-WWW
     url: http://www.icnaming.com/
-  - name: ICNaming Status
+  - name: ICNaming-Status
     url: http://status.icnaming.com/
-  - name: ICNaming APP
+  - name: ICNaming-APP
     url: http://app.icnaming.com/
-  - name: ICNaming APP TESTNET
+  - name: ICNaming-APP-TESTNET
     url: http://app-testnet.icnaming.com/
-  - name: ICNaming White List
+  - name: ICNaming-White-List
     url: http://whitelist.icnaming.com/
-  - name: ICNaming ENS
+  - name: ICNaming-ENS
     url: http://ens.icnaming.com/
-  - name: TICP Favorites
+  - name: TICP-Favorites
     url: https://oyjuw-oqaaa-aaaal-qac5q-cai.raw.ic0.app/metrics
-  - name: TICP Registrar
+  - name: TICP-Registrar
     url: https://onof3-pyaaa-aaaal-qac6a-cai.raw.ic0.app/metrics
-  - name: TICP Resolver
+  - name: TICP-Resolver
     url: https://okpdp-caaaa-aaaal-qac6q-cai.raw.ic0.app/metrics
-  - name: TICP Registry
+  - name: TICP-Registry
     url: https://cxnwn-diaaa-aaaag-aabaq-cai.raw.ic0.app/metrics
-  - name: TICP ICNaming Ledger
+  - name: TICP-ICNaming-Ledger
     url: https://ra2t7-3aaaa-aaaaj-aahzq-cai.raw.ic0.app/metrics
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
