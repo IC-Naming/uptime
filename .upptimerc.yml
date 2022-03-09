@@ -13,6 +13,8 @@ sites:
     url: https://c7nxw-iiaaa-aaaam-aacaq-cai.raw.ic0.app/metrics
   - name: ICP-ICNaming-Ledger
     url: https://ceilt-sqaaa-aaaam-aacca-cai.raw.ic0.app/metrics
+  - name: ICP-Registrar-Control_Gateway
+    url: https://gjzpj-bqaaa-aaaam-aacya-cai.raw.ic0.app/metrics
   - name: ICNaming-WWW
     url: http://www.icnaming.com/
   - name: ICNaming-Status
@@ -25,6 +27,8 @@ sites:
     url: http://whitelist.icnaming.com/
   - name: ICNaming-ENS
     url: http://ens.icnaming.com/
+  - name: ICNaming-Preprod
+    url: http://preprod.icnaming.com/
   - name: TICP-Favorites
     url: https://oyjuw-oqaaa-aaaal-qac5q-cai.raw.ic0.app/metrics
   - name: TICP-Registrar
@@ -35,6 +39,8 @@ sites:
     url: https://cxnwn-diaaa-aaaag-aabaq-cai.raw.ic0.app/metrics
   - name: TICP-ICNaming-Ledger
     url: https://ra2t7-3aaaa-aaaaj-aahzq-cai.raw.ic0.app/metrics
+  - name: TICP-Registrar-Control_Gateway
+    url: https://j6dzz-gaaaa-aaaak-aab3q-cai.raw.ic0.app/metrics
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
