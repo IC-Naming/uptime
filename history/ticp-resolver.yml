@@ -1,7 +1,7 @@
 url: https://okpdp-caaaa-aaaal-qac6q-cai.raw.ic0.app/metrics
-status: down
-code: 500
-responseTime: 190
-lastUpdated: 2022-03-18T19:21:01.148Z
+status: up
+code: 200
+responseTime: 797
+lastUpdated: 2022-03-18T19:27:12.097Z
 startTime: Wed Mar 02 2022 13:37:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
