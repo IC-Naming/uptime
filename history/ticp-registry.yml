@@ -1,7 +1,7 @@
 url: https://cxnwn-diaaa-aaaag-aabaq-cai.raw.ic0.app/metrics
-status: up
-code: 200
-responseTime: 1720
-lastUpdated: 2022-03-17T23:20:57.383Z
+status: down
+code: 500
+responseTime: 195
+lastUpdated: 2022-03-18T19:34:16.919Z
 startTime: Wed Mar 02 2022 13:37:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
