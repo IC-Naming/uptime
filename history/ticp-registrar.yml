@@ -1,7 +1,7 @@
 url: https://onof3-pyaaa-aaaal-qac6a-cai.raw.ic0.app/metrics
-status: down
-code: 500
-responseTime: 533
-lastUpdated: 2022-04-11T11:38:34.392Z
+status: up
+code: 200
+responseTime: 1133
+lastUpdated: 2022-04-11T11:41:50.774Z
 startTime: Wed Mar 02 2022 13:37:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
