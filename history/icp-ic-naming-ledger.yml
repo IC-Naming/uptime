@@ -1,7 +1,7 @@
 url: https://ceilt-sqaaa-aaaam-aacca-cai.raw.ic0.app/metrics
-status: down
-code: 500
-responseTime: 81
-lastUpdated: 2022-04-26T09:44:28.313Z
+status: up
+code: 200
+responseTime: 562
+lastUpdated: 2022-04-26T09:50:46.498Z
 startTime: Wed Mar 02 2022 13:37:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
