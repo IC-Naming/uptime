@@ -1,7 +1,7 @@
 url: https://cymrc-fqaaa-aaaam-aacaa-cai.raw.ic0.app/metrics
-status: down
-code: 500
-responseTime: 497
-lastUpdated: 2022-05-04T13:56:03.741Z
+status: up
+code: 200
+responseTime: 514
+lastUpdated: 2022-05-04T14:04:23.608Z
 startTime: Wed Mar 02 2022 13:37:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
