@@ -1,7 +1,7 @@
 url: https://cwo4k-6aaaa-aaaam-aacba-cai.raw.ic0.app/metrics
-status: up
-code: 200
-responseTime: 840
-lastUpdated: 2022-05-03T23:20:51.521Z
+status: down
+code: 500
+responseTime: 476
+lastUpdated: 2022-05-04T13:56:06.658Z
 startTime: Wed Mar 02 2022 13:37:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
