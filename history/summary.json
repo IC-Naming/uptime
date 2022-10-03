@@ -2,7 +2,7 @@
   {
     "name": "ICNaming-WWW",
     "url": "http://www.icnaming.com/",
-    "icon": "https://favicons.githubusercontent.com/www.icnaming.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.icnaming.com.ico",
     "slug": "ic-naming-www",
     "status": "up",
     "uptime": "99.79%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 1188,
-    "timeDay": 141,
-    "timeWeek": 207,
-    "timeMonth": 199,
-    "timeYear": 1188,
+    "time": 1185,
+    "timeDay": 375,
+    "timeWeek": 240,
+    "timeMonth": 205,
+    "timeYear": 1185,
     "dailyMinutesDown": {
       "2022-07-28": 24,
       "2022-07-22": 204,
@@ -24,17 +24,17 @@
   {
     "name": "ICNaming-Status",
     "url": "http://status.icnaming.com/",
-    "icon": "https://favicons.githubusercontent.com/status.icnaming.com",
+    "icon": "https://icons.duckduckgo.com/ip3/status.icnaming.com.ico",
     "slug": "ic-naming-status",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "98.08%",
+    "uptimeYear": "98.09%",
     "time": 165,
-    "timeDay": 133,
-    "timeWeek": 150,
+    "timeDay": 88,
+    "timeWeek": 145,
     "timeMonth": 157,
     "timeYear": 165,
     "dailyMinutesDown": {
@@ -50,7 +50,7 @@
   {
     "name": "ICNaming-APP",
     "url": "http://app.icnaming.com/",
-    "icon": "https://favicons.githubusercontent.com/app.icnaming.com",
+    "icon": "https://icons.duckduckgo.com/ip3/app.icnaming.com.ico",
     "slug": "ic-naming-app",
     "status": "up",
     "uptime": "99.99%",
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1215,
-    "timeDay": 216,
-    "timeWeek": 184,
-    "timeMonth": 228,
-    "timeYear": 1215,
+    "time": 1210,
+    "timeDay": 263,
+    "timeWeek": 196,
+    "timeMonth": 233,
+    "timeYear": 1210,
     "dailyMinutesDown": {
       "2022-07-22": 43
     }
@@ -70,7 +70,7 @@
   {
     "name": "ICNaming-APP-TESTNET",
     "url": "http://app-testnet.icnaming.com/",
-    "icon": "https://favicons.githubusercontent.com/app-testnet.icnaming.com",
+    "icon": "https://icons.duckduckgo.com/ip3/app-testnet.icnaming.com.ico",
     "slug": "ic-naming-app-testnet",
     "status": "up",
     "uptime": "99.98%",
@@ -78,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1201,
-    "timeDay": 131,
-    "timeWeek": 156,
-    "timeMonth": 198,
-    "timeYear": 1201,
+    "time": 1197,
+    "timeDay": 245,
+    "timeWeek": 162,
+    "timeMonth": 200,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2022-07-28": 23,
       "2022-07-22": 43
@@ -91,7 +91,7 @@
   {
     "name": "ICNaming-White-List",
     "url": "http://whitelist.icnaming.com/",
-    "icon": "https://favicons.githubusercontent.com/whitelist.icnaming.com",
+    "icon": "https://icons.duckduckgo.com/ip3/whitelist.icnaming.com.ico",
     "slug": "ic-naming-white-list",
     "status": "up",
     "uptime": "99.99%",
@@ -99,11 +99,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1156,
-    "timeDay": 107,
-    "timeWeek": 140,
+    "time": 1151,
+    "timeDay": 198,
+    "timeWeek": 136,
     "timeMonth": 174,
-    "timeYear": 1156,
+    "timeYear": 1151,
     "dailyMinutesDown": {
       "2022-07-22": 43
     }
@@ -111,7 +111,7 @@
   {
     "name": "ICNaming-ENS",
     "url": "http://ens.icnaming.com/",
-    "icon": "https://favicons.githubusercontent.com/ens.icnaming.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ens.icnaming.com.ico",
     "slug": "ic-naming-ens",
     "status": "up",
     "uptime": "100.00%",
@@ -120,9 +120,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1545,
-    "timeDay": 1672,
-    "timeWeek": 1477,
-    "timeMonth": 1515,
+    "timeDay": 1642,
+    "timeWeek": 1466,
+    "timeMonth": 1512,
     "timeYear": 1545,
     "dailyMinutesDown": {}
   }
