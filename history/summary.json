@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.icnaming.com.ico",
     "slug": "ic-naming-status",
     "status": "up",
-    "uptime": "98.21%",
+    "uptime": "98.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.21%",
+    "uptimeYear": "98.22%",
     "time": 166,
     "timeDay": 128,
     "timeWeek": 182,
@@ -72,9 +72,9 @@
     "url": "http://app-testnet.icnaming.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app-testnet.icnaming.com.ico",
     "slug": "ic-naming-app-testnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -84,6 +84,7 @@
     "timeMonth": 307,
     "timeYear": 1153,
     "dailyMinutesDown": {
+      "2022-10-17": 0,
       "2022-07-28": 23,
       "2022-07-22": 43
     }
