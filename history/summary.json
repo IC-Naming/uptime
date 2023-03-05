@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 804,
-    "timeDay": 186,
-    "timeWeek": 158,
-    "timeMonth": 185,
-    "timeYear": 780,
+    "time": 802,
+    "timeDay": 258,
+    "timeWeek": 185,
+    "timeMonth": 190,
+    "timeYear": 776,
     "dailyMinutesDown": {
       "2022-07-28": 24,
       "2022-07-22": 204,
@@ -27,22 +27,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.icnaming.com.ico",
     "slug": "ic-naming-status",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.54%",
     "time": 187,
-    "timeDay": 229,
-    "timeWeek": 218,
-    "timeMonth": 163,
+    "timeDay": 185,
+    "timeWeek": 217,
+    "timeMonth": 164,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2023-01-19": 2,
       "2022-09-15": 52,
       "2022-03-09": 34,
-      "2022-03-06": 866,
-      "2022-03-05": 1440
+      "2022-03-06": 866
     }
   },
   {
@@ -56,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 812,
-    "timeDay": 172,
-    "timeWeek": 203,
-    "timeMonth": 185,
-    "timeYear": 789,
+    "time": 811,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 191,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2022-07-22": 43
     }
@@ -76,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 809,
-    "timeDay": 73,
-    "timeWeek": 138,
-    "timeMonth": 203,
-    "timeYear": 783,
+    "time": 807,
+    "timeDay": 252,
+    "timeWeek": 166,
+    "timeMonth": 209,
+    "timeYear": 779,
     "dailyMinutesDown": {
       "2022-10-17": 9,
       "2022-07-28": 23,
@@ -98,11 +97,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 770,
-    "timeDay": 93,
-    "timeWeek": 125,
-    "timeMonth": 157,
-    "timeYear": 745,
+    "time": 769,
+    "timeDay": 254,
+    "timeWeek": 155,
+    "timeMonth": 164,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2022-07-22": 43
     }
@@ -119,10 +118,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1534,
-    "timeDay": 1093,
-    "timeWeek": 1375,
-    "timeMonth": 1493,
-    "timeYear": 1533,
+    "timeDay": 1712,
+    "timeWeek": 1438,
+    "timeMonth": 1506,
+    "timeYear": 1535,
     "dailyMinutesDown": {}
   }
 ]
