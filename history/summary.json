@@ -109,17 +109,19 @@
     "url": "http://ens.icnaming.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ens.icnaming.com.ico",
     "slug": "ic-naming-ens",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1529,
-    "timeDay": 1096,
-    "timeWeek": 1411,
-    "timeMonth": 1435,
-    "timeYear": 1525,
-    "dailyMinutesDown": {}
+    "time": 1527,
+    "timeDay": 967,
+    "timeWeek": 1339,
+    "timeMonth": 1414,
+    "timeYear": 1523,
+    "dailyMinutesDown": {
+      "2023-03-19": 0
+    }
   }
 ]
