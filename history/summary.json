@@ -109,9 +109,9 @@
     "url": "http://ens.icnaming.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ens.icnaming.com.ico",
     "slug": "ic-naming-ens",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
+    "uptimeDay": "99.59%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
@@ -121,6 +121,7 @@
     "timeMonth": 1391,
     "timeYear": 1522,
     "dailyMinutesDown": {
+      "2023-03-20": 0,
       "2023-03-19": 6
     }
   }
