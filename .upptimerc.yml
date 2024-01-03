@@ -17,16 +17,8 @@ sites:
   #   url: https://gjzpj-bqaaa-aaaam-aacya-cai.raw.ic0.app/metrics
   - name: ICNaming-WWW
     url: http://www.icnaming.com/
-  - name: ICNaming-Status
-    url: http://status.icnaming.com/
   - name: ICNaming-APP
     url: http://app.icnaming.com/
-  - name: ICNaming-APP-TESTNET
-    url: http://app-testnet.icnaming.com/
-  - name: ICNaming-White-List
-    url: http://whitelist.icnaming.com/
-  - name: ICNaming-ENS
-    url: http://ens.icnaming.com/
   # - name: ICNaming-Preprod
   #   url: http://preprod.icnaming.com/
   # - name: TICP-Favorites
