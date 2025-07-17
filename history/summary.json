@@ -4,9 +4,9 @@
     "url": "http://www.icnaming.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.icnaming.com.ico",
     "slug": "ic-naming-www",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 180,
     "timeYear": 184,
     "dailyMinutesDown": {
+      "2025-07-17": 0,
       "2025-07-15": 9,
       "2024-10-22": 10
     }
@@ -25,9 +26,9 @@
     "url": "http://app.icnaming.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.icnaming.com.ico",
     "slug": "ic-naming-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -37,6 +38,7 @@
     "timeMonth": 173,
     "timeYear": 173,
     "dailyMinutesDown": {
+      "2025-07-17": 0,
       "2025-07-15": 9,
       "2025-04-03": 18,
       "2024-10-22": 9
