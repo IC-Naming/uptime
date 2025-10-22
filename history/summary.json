@@ -6,14 +6,14 @@
     "slug": "ic-naming-www",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 206,
-    "timeDay": 886,
-    "timeWeek": 498,
-    "timeMonth": 292,
+    "timeDay": 197,
+    "timeWeek": 497,
+    "timeMonth": 290,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2025-10-20": 21,
@@ -43,8 +43,7 @@
       "2025-07-21": 15,
       "2025-07-19": 8,
       "2025-07-17": 10,
-      "2025-07-15": 9,
-      "2024-10-22": 10
+      "2025-07-15": 9
     }
   },
   {
@@ -54,15 +53,15 @@
     "slug": "ic-naming-app",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.89%",
     "time": 196,
-    "timeDay": 1176,
-    "timeWeek": 701,
-    "timeMonth": 374,
-    "timeYear": 207,
+    "timeDay": 439,
+    "timeWeek": 714,
+    "timeMonth": 375,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2025-10-20": 44,
       "2025-10-15": 7,
@@ -92,8 +91,7 @@
       "2025-07-19": 8,
       "2025-07-17": 10,
       "2025-07-15": 9,
-      "2025-04-03": 18,
-      "2024-10-22": 9
+      "2025-04-03": 18
     }
   }
 ]
